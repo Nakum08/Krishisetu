@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "191960386677",
+    "project_id": "krishisetu-5b96a",
+    "storage_bucket": "krishisetu-5b96a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:191960386677:android:f7db6a1e94e3564909fc3c",
+        "android_client_info": {
+          "package_name": "com.svs.krishisetu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "191960386677-23aq305dr06g5ac2f44o8p2oh08krp6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.svs.krishisetu",
+            "certificate_hash": "7ece1485e8e2ac3850fcf3f9028445a6875dca36"
+          }
+        },
+        {
+          "client_id": "191960386677-eb6i4755uouu5r4t3tr9f2jan6jvntrc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.svs.krishisetu",
+            "certificate_hash": "6088cd91a70020afa8433a7b2d7f32c62c6b9702"
+          }
+        },
+        {
+          "client_id": "191960386677-q1a49d7ffpl69gb7t3gl7epnbkk9up2c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.svs.krishisetu",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "191960386677-m6q2980b2stc3283je4r4qj69mm9sdoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFIpKNFF56ts3djmim4ENVtFb0NMM9IuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "191960386677-m6q2980b2stc3283je4r4qj69mm9sdoq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
